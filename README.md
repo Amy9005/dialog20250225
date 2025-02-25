@@ -1,5 +1,7 @@
 # Amy－Dialog_20250225
 
+# 程式碼請查看 dialog.sh
+
 1 歡迎畫面
 ![alt text](image.png)
 2 登入
